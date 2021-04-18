@@ -5,6 +5,9 @@
 
 github profile icons
 https://github.com/MrStanDu33/MrStanDu33/blob/master/README.md
+https://mybinder.readthedocs.io/en/latest/howto/badges.html
+https://img.shields.io
+https://shields.io/
 
 
 Here are some ideas to get you started:
