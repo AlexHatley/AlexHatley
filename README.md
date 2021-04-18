@@ -1,15 +1,11 @@
 ### Hi there!
-![image](https://user-images.githubusercontent.com/79431814/115155148-33127500-a044-11eb-8598-84e2f5fcb553.png)
-
-          
-           
-
-
-    
-
 
 <!--
 **AlexHatley/AlexHatley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+https://github.com/MrStanDu33/MrStanDu33/blob/master/README.md
+
 
 Here are some ideas to get you started:
 
