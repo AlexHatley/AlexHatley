@@ -8,7 +8,7 @@ https://github.com/MrStanDu33/MrStanDu33/blob/master/README.md
 https://mybinder.readthedocs.io/en/latest/howto/badges.html
 https://img.shields.io
 https://shields.io/
-
+https://docs.github.com/en/github/authenticating-to-github/about-anonymized-image-urls
 
 Here are some ideas to get you started:
 
